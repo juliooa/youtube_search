@@ -1,0 +1,12 @@
+[package]
+name = "youtube_search"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+yew = "0.19.3"
+web-sys = {version = "0.3.60", features=["Event", "InputEvent"]}
+wasm-bindgen = "0.2.83"
+wasm-bindgen-futures = "0.4"
+gloo-net = "0.2.4"
