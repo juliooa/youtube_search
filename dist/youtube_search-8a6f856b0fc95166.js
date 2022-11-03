@@ -699,7 +699,7 @@ function initSync(module) {
 
 async function init(input) {
     if (typeof input === 'undefined') {
-        input = new URL('youtube_search-ba0041507e2fb5be_bg.wasm', import.meta.url);
+        input = new URL('youtube_search-8a6f856b0fc95166_bg.wasm', import.meta.url);
     }
     const imports = getImports();
 
