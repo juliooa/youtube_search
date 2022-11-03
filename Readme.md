@@ -21,3 +21,4 @@ Ejecuta la app:
 $ trunk serve
 ```
 Enjoy:
+<img width="1406" alt="Screen Shot 2022-11-03 at 17 27 51" src="https://user-images.githubusercontent.com/1221345/199827827-17d0eb3b-24af-4926-b9ba-23a772997b51.png">
